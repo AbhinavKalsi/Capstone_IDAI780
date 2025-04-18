@@ -17,7 +17,7 @@ This project presents a framework that utilizes reinforcement learning (RL) comb
 
 ## Project Architecture
 
-![Architecture Diagram](figures/ppo.png)
+![Architecture Diagram](figures/MDP.png)
 
 **Fig. 1**: Framework integrating surrogate modeling and PPO reinforcement learning for aerodynamic optimization.
 
