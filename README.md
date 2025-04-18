@@ -51,7 +51,7 @@ f1-wing-optimization/
 │   ├── data.py                 # Data loading & preprocessing
 │   └── visualize.py            # Plotting utilities
 └── figures/
-    ├── architecture.png        # Framework diagram
+    ├── MDP.PNG                 # Framework diagram
     ├── LD_vs_AoA.png           # Lift‑to‑drag vs. AoA
     ├── CL_vs_AoA.png           # Lift coefficient vs. AoA
     └── CD_vs_AoA.png           # Drag coefficient vs. AoA
