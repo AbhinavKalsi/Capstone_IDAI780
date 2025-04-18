@@ -23,9 +23,9 @@ This project presents a framework that utilizes reinforcement learning (RL) comb
 
 ---
 
-## Repository Structure
+//## Repository Structure
 
-f1-wing-optimization/
+/*f1-wing-optimization/
 ├── README.md
 ├── requirements.txt
 ├── data/
@@ -54,7 +54,7 @@ f1-wing-optimization/
     ├── CL_vs_AoA.png           # Lift coefficient vs AoA
     └── CD_vs_AoA.png           # Drag coefficient vs AoA
 
-
+*/
 ---
 
 ## Installation and Setup
